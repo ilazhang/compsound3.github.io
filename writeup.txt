@@ -1,0 +1,12 @@
+Lab3 Writeup
+
+Part 1
+I aimed to recreate the sound of the babbling brook from the SuperCollider program, translating it to WebAudio.
+I began with the simplified code and used the provided code for Brown Noise, though I made some slight (non-noticeable) modifications to make it toggle on and off with a button.
+I struggled most with understanding the values given in the SuperCollider program, though I made a decent attempt at using the filters. I was just unsure how and what I should 
+have assigned them.
+In the end, I reached a point where I could not seem to change the sound of the brown noise and “babbling brook” and it did not sound exactly like the bubbling water.
+
+Part 2
+I aimed to recreate the alarm sound. It was a bit harder translating the description from the textbook into code but since I did not have the filters and brown noise from part 1, 
+it was more straightforward. I was again unsure of how to work with values. Some things felt up to interpretation so I kept it as “normal alarm sounding” as possible.
